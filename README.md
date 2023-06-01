@@ -1,6 +1,6 @@
 ### _A charger add-on for the ItsyBitsy NRF_
 
-# ItsyBitsyBreadboardAdapter
+# ItsyBitsy NRF Charger Basement
 
 ![Image of Module](https://github.com/CedarGroveStudios/PCB_ItsyBitsy_NRF_Charger_Basement/blob/main/photos%20and%20graphics/ItsyBitsy_breadboard_adapter_social.png)
 
